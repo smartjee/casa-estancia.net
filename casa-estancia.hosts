@@ -1,0 +1,16 @@
+$ttl 3600
+casa-estancia.net.	IN	SOA	smartjee.github.io. casa.casa-estancia.net. (
+			2024103008
+			3600
+			600
+			1209600
+			3600 )
+casa-estancia.net.	IN	NS	smartjee.github.io.
+casa-estancia.net.	IN	A	185.199.108.153
+casa-estancia.net.	IN	A	185.199.111.153
+casa-estancia.net.	IN	A	185.199.109.153
+casa-estancia.net.	IN	A	185.199.110.153
+casa-estancia.net.	IN	AAAA	2606:50c0:8001::153
+casa-estancia.net.	IN	AAAA	2606:50c0:8002::153
+casa-estancia.net.	IN	AAAA	2606:50c0:8000::153
+casa-estancia.net.	IN	AAAA	2606:50c0:8003::153
