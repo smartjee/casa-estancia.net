@@ -1,9 +1,9 @@
 127.0.0.1	localhost
 127.0.1.1	smrt-desktop
-casa-estancia.net. 	185.199.108.153
-casa-estancia.net. 	185.199.111.153
-casa-estancia.net. 	185.199.109.153
-casa-estancia.net. 	185.199.110.15
+casa-estancia.net 	185.199.108.153
+casa-estancia.net 	185.199.111.153
+casa-estancia.net 	185.199.109.153
+casa-estancia.net 	185.199.110.15
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
